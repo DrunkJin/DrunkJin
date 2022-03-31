@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DrunkJin
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, Java, Spring 
+- 🌱 I’m currently learning Python, Java, Spring, Docker 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hood63@naver.com
 
