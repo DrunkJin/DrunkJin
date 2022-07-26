@@ -6,8 +6,10 @@
 - 👋 Hi, I’m @DrunkJin
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python, Java, Spring, Docker 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me <img src="https://img.shields.io/badge/hood63@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:hood63@naver.com" style="height : auto; padding-top: 10px;"/>
+- 💞️ I’m looking to collaborate on ...  
+
+## 📫 How to reach me 
+<img src="https://img.shields.io/badge/hood63@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:hood63@naver.com" style="height : auto; padding-top: 10px;"/>
 
 
 
