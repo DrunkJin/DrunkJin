@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hood63@naver.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrunkJin)](https://github.com/2huiju/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrunkJin)](https://github.com/DrunkJin/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrunkJin&count_private=true)
 <!---
 DrunkJin/DrunkJin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
