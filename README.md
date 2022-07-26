@@ -6,6 +6,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrunkJin)](https://github.com/DrunkJin/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrunkJin&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrunkJin&show_icons=true)
+
+
 <!---
 DrunkJin/DrunkJin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
