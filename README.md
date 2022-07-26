@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/hood63@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:hood63@naver.com" style="height : auto; padding-top: 10px;"/>
 
 
-
+## Stack & Stats  
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
