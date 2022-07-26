@@ -10,7 +10,7 @@
 - 📫 How to reach me hood63@naver.com
 
 
-
+<img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 | <a href="https://github.com/DrunkJin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DrunkJin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="DrunkJin's github stats" /></a> | <a href="https://github.com/DrunkJin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrunkJin&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
