@@ -1,16 +1,13 @@
+<p align="center"><a href="https://github.com/DrunkJin"><img width="80%" alt="Hello, I'm DrunkJin. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+
+
 - 👋 Hi, I’m @DrunkJin
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python, Java, Spring, Docker 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hood63@naver.com
 
-  class Person {
-      constructor() {
-        this.name = "DrunkJin";
-        this.traits = ["AI", "DataScience"];
-        this.age = new Date().getFullYear() - 2001;
-      }
-  }
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrunkJin&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrunkJin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
