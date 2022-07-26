@@ -4,13 +4,13 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hood63@naver.com
 
-1  class Person {
-2      constructor() {
-3        this.name = "DrunkJin";
-4        this.traits = ["AI", "DataScience"];
-5        this.age = new Date().getFullYear() - 2001;
-6      }
-7  }
+  class Person {
+      constructor() {
+        this.name = "DrunkJin";
+        this.traits = ["AI", "DataScience"];
+        this.age = new Date().getFullYear() - 2001;
+      }
+  }
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrunkJin&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrunkJin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
