@@ -1,6 +1,5 @@
 <!-- <p align="center"><a href="https://DrunkJin.github.io"><img width="80%" alt="Hello, I'm DrunkJin. I do open source!" src="./assets/gh-readme-header.png" /></a></p> -->
-[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DrunkJin&icon=&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
-  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDrunkJin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 **About me**
 
 - 👋 Hi, I’m @DrunkJin
