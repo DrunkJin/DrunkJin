@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 
 | <a href="https://github.com/DrunkJin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DrunkJin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="DrunkJin's github stats" /></a> | <a href="https://github.com/DrunkJin/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrunkJin&layout=compact&theme=buefy&hide_border=true" /></a> |
