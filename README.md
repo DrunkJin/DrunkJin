@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @DrunkJin
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python, Java, Spring, Docker 
+- 🌱 I’m currently learning Python, ReinforcementLearning, Rbotics ...
 - 💞️ I’m looking to collaborate on ...  
 
 ## 📫 How to reach me 
