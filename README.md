@@ -41,9 +41,8 @@ Kaggle 대회에 참가하며 실전 문제 해결 능력을 키우고 있습니
 
 ### Kaggle
 
-<a href="https://www.kaggle.com/cocoyachi">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/cocoyachi/competition/light" alt="Kaggle Badges" />
-</a>
+![Competition](https://img.shields.io/badge/Competition-Contributor-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+![Notebooks](https://img.shields.io/badge/Notebooks-Expert-6C3FC5?style=flat-square&logo=kaggle&logoColor=white)
 
 | Competition | Best Score | Highlight |
 |:------------|:-----------|:----------|
@@ -83,10 +82,10 @@ Kaggle 대회에 참가하며 실전 문제 해결 능력을 키우고 있습니
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DrunkJin&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrunkJin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DrunkJin&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DrunkJin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DrunkJin&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://streak-stats.demolab.com/?user=DrunkJin&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 
