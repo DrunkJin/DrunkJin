@@ -31,6 +31,7 @@ Kaggle 대회에 참가하며 실전 문제 해결 능력을 키우고 있습니
 
 | Repository | Description |
 |:-----------|:------------|
+| [**llm-from-scratch**](https://github.com/DrunkJin/llm-from-scratch) | BPE 토크나이저 + GPT 모델 + 학습 + 생성 — 400줄로 만드는 LLM |
 | [**pytorch-from-scratch**](https://github.com/DrunkJin/pytorch-from-scratch) | Linear Regression부터 Transformer까지 PyTorch로 처음부터 구현 |
 | [**autograd-engine**](https://github.com/DrunkJin/autograd-engine) | NumPy만으로 만든 자동 미분 엔진 + 역전파 신경망 학습 |
 | [**diffusion-from-scratch**](https://github.com/DrunkJin/diffusion-from-scratch) | DDPM & DDIM 논문 구현 — MNIST 기반 이미지 생성 |
