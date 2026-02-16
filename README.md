@@ -5,7 +5,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDrunkJin&count_bg=%236C63FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=true)](https://hits.seeyoufarm.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-cocoyachi-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/cocoyachi)
 ![Kaggle Notebook](https://img.shields.io/badge/Notebooks-Expert-6C3FC5?style=flat&logo=kaggle&logoColor=white)
-[![Blog](https://img.shields.io/badge/Blog-DrunkJin-FF5722?style=flat&logo=github-pages&logoColor=white)](https://DrunkJin.github.io)
+[![Blog](https://img.shields.io/badge/Blog-TildAlice-FF5722?style=flat&logo=github-pages&logoColor=white)](https://tildalice.io)
 
 </div>
 
