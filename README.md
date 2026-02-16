@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=AI%2FML+Engineer+%7C+From-Scratch+Builder;Kaggle+Competitor+%7C+RL+Researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=AI%2FML+Researcher+%7C+From-Scratch+Builder;Kaggle+Competitor+%7C+RL+Researcher" alt="Typing SVG" />
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDrunkJin&count_bg=%236C63FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=true)](https://hits.seeyoufarm.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-cocoyachi-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/cocoyachi)
+![Kaggle Notebook](https://img.shields.io/badge/Notebooks-Expert-6C3FC5?style=flat&logo=kaggle&logoColor=white)
 [![Blog](https://img.shields.io/badge/Blog-DrunkJin-FF5722?style=flat&logo=github-pages&logoColor=white)](https://DrunkJin.github.io)
 
 </div>
@@ -46,7 +47,7 @@ Kaggle 대회에 참가하며 실전 문제 해결 능력을 키우고 있습니
 
 | Competition | Best Score | Highlight |
 |:------------|:-----------|:----------|
-| **AIMO3** — AI Mathematical Olympiad | 진행 중 | GPT-OSS-120B + vLLM + GenSelect |
+| **AIMO3** — AI Mathematical Olympiad | 40/110 (~700th) | GPT-OSS-120B + vLLM + GenSelect |
 | **Playground S6E2** — Heart Disease | Top 3% | 5-model ensemble, entropy-weighted voting |
 
 ---
